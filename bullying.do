@@ -1,3 +1,5 @@
+This is the do file of STATA for the study of bullying among the nurses
+
 *data mx
 
 Patients_serve_number 
